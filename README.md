@@ -1,0 +1,2 @@
+# smruti
+Repository on Github
